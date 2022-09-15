@@ -1,0 +1,21 @@
+h1{
+    color: blue;
+    font-family: Verdana;
+    
+}
+
+p{
+    color: coral;
+    font-family: Verdana;
+}
+
+h2{
+    color: blueviolet;
+    font-family:'Times New Roman', Times, serif
+}
+
+h3{
+    color: darkred;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+}
